@@ -1,1 +1,1 @@
-This is sample file
+This is sample file. This is used to test sample git commands.
