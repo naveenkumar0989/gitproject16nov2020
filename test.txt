@@ -1,1 +1,1 @@
-This is test file
+This is test file. It is used to practise the git commands.
